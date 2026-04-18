@@ -14,3 +14,7 @@ https://extensions.gnome.org/extension/4817/colorful-battery-indicator/
 ### Features
 * Skinnier battery icons (80% width of original)
 * Formatted icon svg files
+
+### Ideas
+* Rounded edges of battery icon
+* More subdued colors

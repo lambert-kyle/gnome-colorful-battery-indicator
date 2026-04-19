@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <g transform="scale(0.8,1)">
+    <g transform="translate(1.6,0) scale(0.8,1)">
         <path opacity=".4" d="m5 0v2h-3v14h12v-14h-3v-2z" fill="#bebebe" />
         <path d="m2 13v3h12v-3z" stroke-width=".866" fill="#4540fb" />
     </g>

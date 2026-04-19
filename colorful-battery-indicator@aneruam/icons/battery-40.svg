@@ -45,7 +45,7 @@
       inkscape:window-y="0"
       inkscape:window-maximized="1"
       inkscape:current-layer="svg6" />
-   <g transform="scale(0.8,1)">
+   <g transform="translate(1.6,0) scale(0.8,1)">
       <path
          d="M 5,0 5,2 2,2 2,16 14,16 14,2 11,2 11,0 z"
          style="fill:#bebebe;opacity:0.4"

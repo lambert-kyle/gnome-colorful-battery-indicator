@@ -1,6 +1,4 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(1.6,0) scale(0.8,1)">
-        <path fill="#bebebe" d="m5 0v2h-3v14h12v-14h-3v-2zm5 3l-1 5h3l-6 7 1-5h-3z" opacity=".4" />
-        <path fill="#3040e4" d="m2 13v3h12v-3h-6.285l-1.715 2 .4-2z" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <path fill="#bebebe" d="M5.6 0v2H3.2v14h9.6V2h-2.4V0zm4 3-.8 5h2.4l-4.8 7 .8-5H4.8z" opacity=".4"/>
+    <path fill="#3040e4" d="M3.2 13v3h9.6v-3H7.772L6.4 15l.32-2z"/>
 </svg>
